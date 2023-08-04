@@ -31,9 +31,9 @@
 }
 .Rectangle5{
     width: 1500px; 
-    height: 200px; 
+    height: 1500px; 
     left: 0px; 
-    top: 300px; 
+    top: 500px; 
     position: absolute; 
     background: rgba(143, 193, 181, 0.80);
 
@@ -80,12 +80,12 @@
     word-wrap: break-word;
 }
 .Hallo{
-    position: relativ;
+    position: absolute;
     top: 1300px;
     left: 330px;
     text-align: center; 
     color: black; 
-    font-size: 36px; 
+    font-size: 40px; 
     font-family: Merriweather; 
     font-weight: 400; 
     word-wrap: break-word;
@@ -96,7 +96,7 @@
     height: 58px; 
     left: 36px; 
     top: 1600px; 
-    position: relative; 
+    position: absolute; 
     text-align: center; 
     color: black; 
     font-size: 40px; 
