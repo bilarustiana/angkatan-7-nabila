@@ -80,7 +80,7 @@
     word-wrap: break-word;
 }
 .Hallo{
-    position: absolute;
+    position: relativ;
     top: 1300px;
     left: 330px;
     text-align: center; 
